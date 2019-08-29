@@ -1,5 +1,5 @@
 .container{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 700px;
     height: 1600px;
     margin-left: 320px;
@@ -20,7 +20,7 @@
     padding-left: 50px;
 }
 .objectives{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 700px;
     height: 140px;
     float: left;
